@@ -3,7 +3,7 @@ name: Release Productive Version
 on:
   push:
     branches:
-      - main
+      - master
 
 env:
   PROJECT_ID: signal-353806
